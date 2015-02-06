@@ -5,7 +5,7 @@
 Summary:	Plasma applet that emulates a button from the window title of the active window
 Name:		plasma-applet-%{oname}
 Version:	0.6
-Release:	1
+Release:	2
 License:	GPLv3+
 Group:		Graphical desktop/KDE
 Url:		http://kde-look.org/content/show.php/KWin+Button+applet+improved?content=%{kdeid}
