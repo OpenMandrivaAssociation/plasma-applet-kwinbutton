@@ -8,7 +8,7 @@ Version:	0.6
 Release:	2
 License:	GPLv3+
 Group:		Graphical desktop/KDE
-Url:		http://kde-look.org/content/show.php/KWin+Button+applet+improved?content=%{kdeid}
+Url:		https://kde-look.org/content/show.php/KWin+Button+applet+improved?content=%{kdeid}
 Source0:	http://kde-apps.org/CONTENT/content-files/%{kdeid}-%{sname}-%{version}.tar.gz
 BuildRequires:	kdelibs4-devel
 BuildRequires:	kdebase4-workspace-devel
